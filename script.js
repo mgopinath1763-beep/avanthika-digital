@@ -5,7 +5,7 @@ function orderNow() {
 function orderFrame(size) {
     let message = "I want to order a " + size + " photo frame.";
 
-    let phoneNumber = "919876543210";
+    let phoneNumber = "9150359377";
 
     let whatsappURL =
         "https://wa.me/" + phoneNumber +
